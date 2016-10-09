@@ -1,6 +1,7 @@
 body {
 	background-image: url(../images/weatherman.jpg);
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 .container {
 	margin: 25px 0 0 25px;
