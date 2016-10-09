@@ -1,0 +1,8 @@
+Get Celsius temperature.
+Convert Celsius to Fahrenheit.
+If Fahrenheit temp. is 42° or lower, display Winter background.
+If Fahrenheit temp. is above 42° and equal to or below 60°, display Fall background.
+If Fahrenheit temp. is above 60° and equal to or below 75°, display Spring background.
+If Fahrenheit temp. is greater than 75°, display Summer background.
+
+
