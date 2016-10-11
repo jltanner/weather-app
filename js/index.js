@@ -21,5 +21,4 @@ document.getElementById("submit").onclick = function() {
 		document.getElementById("result").innerHTML = fahrenheit;
 		document.getElementById("result").style = "color: #d9e00d";
 	}
-
 }
